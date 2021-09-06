@@ -1,1 +1,1 @@
-# my-quizzes-app
+# project-template-myquiz
